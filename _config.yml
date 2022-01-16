@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ABC Docs
 description: A Test theme for documentation
-baseurl: "/ABCDoc" # the subpath of your site, e.g. /blog
+baseurl: /ABCDoc # the subpath of your site, e.g. /blog
 url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
